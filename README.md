@@ -1,4 +1,4 @@
-# template-repo
+# SBT製マニュアル確認
 SBT製マニュアルについて「スタッシュの説明内容が気になったため」の調査用。
 
 Visual Studioには元々本来のstush機能はなく、
